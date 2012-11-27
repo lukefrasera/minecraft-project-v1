@@ -1,5 +1,4 @@
 #include <cmath>
-//
 
 class Grad{
 public:
