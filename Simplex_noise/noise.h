@@ -1,3 +1,6 @@
+#ifndef NOISE_H
+#define NOISE_H
+
 #include <cmath>
 
 class Grad{
@@ -24,28 +27,31 @@ public:
 };
 
 class simplexNoise{
+
 private:
-	simplexNoise();
-	static Grad * grad3;
-    static Grad * grad4;
-    static short * p;
-	static short * perm;
-	static short * permMod12;
-	static double F2;
-	static double G2;
-	static double F3;
-	static double G3;
-	static double F4;
-	static double G4;
+	Grad * grad3;
+    Grad * grad4;
+    short * p;
+	short * perm;
+	short * permMod12;
+	double F2;
+	double G2;
+	double F3;
+	double G3;
+	double F4;
+	double G4;
 
 	void initializeGrad( const int*);
 	inline int fastfloor(double x);
 	double dot( Grad g, double x, double y);
 	double dot( Grad g, double x, double y, double z );
 	double dot( Grad g, double x, double y, double z, double w );
+	
+public:
+	simplexNoise();
 	double noise(double xin, double yin);
 	double noise(double xin, double yin, double zin);
 	double noise(double xin, double yin, double zin, double win);
-public:
-	void noise();
+
 };
+#endif
