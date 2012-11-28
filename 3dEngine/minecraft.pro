@@ -9,10 +9,12 @@ TEMPLATE = app
 
 SOURCES += main.cpp \
     mainwindow.cpp \
-    view.cpp
+    view.cpp \
+    ../Simplex_noise/noise.cpp
 
 HEADERS += mainwindow.h \
     view.h \
-    vector.h
+    vector.h \
+    ../Simplex_noise/noise.h
 
 FORMS += mainwindow.ui
