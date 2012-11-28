@@ -3,59 +3,15 @@
 	{
 		"selected_items":
 		[
-			[
-				"perm",
-				"permMod12"
-			],
-			[
-				"gradie",
-				"gradient4"
-			],
-			[
-				"sim",
-				"simplexNoise"
-			],
-			[
-				"pu",
-				"public"
-			],
-			[
-				"sem",
-				"sem"
-			],
-			[
-				"col",
-				"colTwo"
-			],
-			[
-				"row",
-				"rowTwo"
-			],
-			[
-				"matr",
-				"matrix1"
-			],
-			[
-				"threa",
-				"threadNum"
-			],
-			[
-				"re",
-				"result"
-			],
-			[
-				"int",
-				"int"
-			]
 		]
 	},
 	"buffers":
 	[
 		{
-			"file": "noise.h",
+			"file": "/home/luke/Documents/minecraft-project-v1/3dEngine/main.cpp",
 			"settings":
 			{
-				"buffer_size": 1012,
+				"buffer_size": 428,
 				"line_ending": "Unix"
 			}
 		}
@@ -84,62 +40,12 @@
 	},
 	"file_history":
 	[
-		"/home/jessie/Documents/cs195u/cs195u/minecraft-project-v1/Sublime_Project",
-		"/home/jessie/Documents/cs195u/cs195u/minecraft-project-v1/noise.h",
-		"/home/jessie/Documents/cs195u/cs195u/minecraft-project-v1/noise.cpp",
-		"/home/jessie/Documents/cs195u/cs195u/minecraft-project-v1/.hg/hgrc",
-		"/home/jessie/Documents/minecrafft-project-v1/.hg/hgrc",
-		"/home/jessie/Documents/asignment_4_v1/image.h",
-		"/home/jessie/Documents/minecraftprojectv3/noise.cpp",
-		"/home/jessie/Documents/minecraftprojectv3/noise.h",
-		"/home/jessie/.netrc",
-		"/home/jessie/Documents/minecraftprojectv2/.hg/hgrc",
-		"/home/jessie/Documents/minecrafft-project-v1/noise.h",
-		"/home/jessie/Documents/minecrafft-project-v1/noise.cpp",
-		"/home/jessie/Documents/minecraftprojectv2/.hg/00changelog.i",
-		"/home/jessie/Documents/cs195u/cs195u/warmup/vector.h",
-		"/home/jessie/Desktop/Noise/noise.cpp",
-		"/home/jessie/Desktop/Noise/noise.h",
-		"/home/jessie/Desktop/main.cpp",
-		"/home/jessie/Desktop/noise.h",
-		"/home/jessie/Desktop/noise.cpp",
-		"/home/jessie/Documents/cs302/assignment-4-v2/makefile",
-		"/home/jessie/Documents/cs302/assignment-4-v2/queue.cpp",
-		"/home/jessie/Documents/cs302/assignment-4-v2/queue.h",
-		"/home/jessie/Desktop/HelloWorldapp.java",
-		"/home/jessie/Documents/openGL/terrain/vec3f.h",
-		"/home/jessie/Documents/openGL/terrain/imageloader.cpp",
-		"/home/jessie/Documents/openGL/terrain/imageloader.h",
-		"/home/jessie/Documents/openGL/terrain/vec3f.cpp",
-		"/home/jessie/Documents/cs195u/cs195u/warmup/Terrain.h",
-		"/home/jessie/Documents/cs195u/cs195u/warmup/grass.png",
-		"/home/jessie/Documents/openGL/terrain/main.cpp",
-		"/home/jessie/Documents/cs195u/cs195u/warmup/main.cpp",
-		"/home/jessie/Documents/cs195u/cs195u/warmup/mainwindow.cpp",
-		"/home/jessie/Documents/cs195u/cs195u/warmup/mainwindow.ui",
-		"/home/jessie/Documents/cs195u/cs195u/warmup/view.cpp",
-		"/home/jessie/Documents/cs195u/cs195u/warmup/view.h",
-		"/home/jessie/Documents/cs195u/cs195u/warmup/warmup.pro",
-		"/home/jessie/Documents/openGL/basicshapes/main.cpp",
-		"/home/jessie/Documents/openGL/basicshapes/Makefile",
-		"/home/jessie/Documents/cs477/hw_5_1_D.cpp",
-		"/home/jessie/Documents/openGL/terrain/Makefile",
-		"/home/jessie/Documents/openGL/cube/Makefile",
-		"/home/jessie/Documents/cs446/prog_3/justice_code.c",
-		"/home/jessie/Documents/cs446/prog_2/tester.cpp",
-		"/home/jessie/Documents/cs446/prog_2/input1.txt",
-		"/home/jessie/Documents/cs446/prog_2/input2.txt",
-		"/home/jessie/Desktop/PA2_81926/multiplier.c",
-		"/home/jessie/Documents/cs446/prog_2/multiplier.cpp",
-		"/home/jessie/Documents/cs446/prog_2/pthreadl.c",
-		"/home/jessie/Documents/cs446/prog_1/main.c",
-		"/home/jessie/Documents/cs446/prog_1/makefile",
-		"/home/jessie/Documents/cs446/prog_1/input.txt",
-		"/usr/share/applications/sublime.desktop"
+		"/home/luke/Documents/minecraft-project-v1/sublime/minecraft.sublime-workspace",
+		"/usr/share/applications/defaults.list"
 	],
 	"find":
 	{
-		"height": 35.0
+		"height": 0.0
 	},
 	"find_in_files":
 	{
@@ -153,21 +59,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
-			"pthread\n\npthread_create\n\n\npthread",
-			"pthread\n\n\n\n\npthread",
-			"pthread",
-			"tempChar",
-			"children",
-			"famsize",
-			"printcount",
-			"putchar",
-			"counter+2",
-			"counter+ 2",
-			"counter +2",
-			"counter+2",
-			"counter + 2",
-			"parent",
-			"counter"
+			"gedit.desktop"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -175,6 +67,7 @@
 		"regex": false,
 		"replace_history":
 		[
+			"sublime.desktop"
 		],
 		"reverse": false,
 		"show_context": true,
@@ -190,24 +83,23 @@
 			[
 				{
 					"buffer": 0,
-					"file": "noise.h",
+					"file": "/home/luke/Documents/minecraft-project-v1/3dEngine/main.cpp",
 					"settings":
 					{
-						"buffer_size": 1012,
+						"buffer_size": 428,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								17,
-								17
+								428,
+								428
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/C++/C++.tmLanguage",
-							"translate_tabs_to_spaces": false
+							"syntax": "Packages/C++/C++.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -251,7 +143,7 @@
 	"menu_visible": true,
 	"replace":
 	{
-		"height": 0.0
+		"height": 64.0
 	},
 	"save_all_on_build": true,
 	"select_file":

@@ -1,5 +1,5 @@
-noise :	noise.o driver.o
-	g++ -o noise noise.o driver.o
+noise.out :	noise.o driver.o
+	g++ -o noise.out noise.o driver.o
 
 noise.o :	noise.cpp noise.h
 	g++ -c noise.cpp
